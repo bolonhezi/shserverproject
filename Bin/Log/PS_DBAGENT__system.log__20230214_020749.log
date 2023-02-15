@@ -1,0 +1,18 @@
+2023-02-14 02:07:49 PS_DBAGENT__system log start (DBAgent01)
+Module list:
+C:\ShaiyaServer\PSM_Client\Bin\ps_dbAgent.exe, loaded at 0x00400000 - 11/09/14 16:20:57
+2023-02-14 02:08:25 ### Connect[7908] : Game[?][0x011E8D08], Addr=127.0.0.1, DBJobEnd=1
+2023-02-14 02:08:25 ### DB_SYSTEM_CONNECT[8160] :Game[1][0x011E8D08], Name=Game01, Addr=127.0.0.1
+2023-02-14 02:09:33 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Erro ao converter tipo de dados varchar em datetime., SQL STATE: 42000, NATIVE ERROR: 8114 (0x1FB2)
+2023-02-14 02:09:33 SaveBuyPointItem 10 RayCrazy qerr=-1, {?=call usp_Save_User_BuyPointItems2(6,10,30,'runa30d','2023-02-14 02:09:32')}
+2023-02-14 02:09:41 1 1 SAgent::Disconnect: (4, 64)
+2023-02-14 02:09:41 1 1 T=000:01:00:000, RC=11,RCS=0, RB=350,RBS=4, SC=30,SCS=0, SB=14877,SBS=195
+2023-02-14 02:09:41 ### Disconnect[5872] : Game[1][0x011E8D08], Name=Game01, Addr=127.0.0.1, DBJobEnd=0
+2023-02-14 02:09:41 ### PostDispatchDB[5872] : DB_DISPATCHER_EXIT Game[1][0x011E8D08]
+2023-02-14 02:09:41 ### OnDispatchDB[7616] : => DB_DISPATCHER_EXIT Game[1][0x011E8D08]
+2023-02-14 02:09:41 ### Save[7616] : Game[1][0x011E8D08]
+2023-02-14 02:09:41 ### OnDispatchDB[7616] : <= DB_DISPATCHER_EXIT Game[1][0x011E8D08]
+2023-02-14 02:09:41 3 1 SERVICE_CONTROL_STOP
+2023-02-14 02:09:41 PS_DBAGENT__system log end (DBAgent01)
+
+2023-02-14 02:09:41 3 1 SService::ServiceCtrlDispatcher(): service shutdown
