@@ -54,7 +54,7 @@ function WhileCombat(dwTime, dwHPPercent, dwAttackedCount)
     end
 	if (dwHPPercent <= 30) then
         if (bMobSay == 2) then
-            Mob:LuaSay('Hora de para com a brincadeiras, Comandantes Canibais, matem todos!', 50.0)
+            Mob:LuaSay('Hora de para com a brincadeira, Comandantes Canibais, matem todos!', 50.0)
 			Mob:LuaCreateMob ( 3027, 15, 0.0, 0.0 )
             bMobSay = bMobSay + 1
         end
