@@ -25,7 +25,10 @@ function OnReturnHome(dwTime, dwAttackedCount)
 end
 
 function OnNormalReset(dwTime)
-
+    bMobSay = 0
+    bMobMove = 0
+    iclass = 0
+    iclass2 = 0
 end
 
 function OnDeath(dwTime, dwAttackedCount)
@@ -62,7 +65,7 @@ function WhileCombat(dwTime, dwHPPercent, dwAttackedCount)
     if (dwHPPercent <= 50) then
         if (bMobMove < 1) then
             while (iclass <= 5) do
-                Mob:LuaRecallUser(iclass, 20, 74)
+                Mob:LuaRecallUser(iclass, 20, 74, 380.78, 159.469, 510.01)
                 iclass = iclass + 1
             end
             bMobMove = bMobMove + 1
