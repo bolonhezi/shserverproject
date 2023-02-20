@@ -1,4 +1,4 @@
-# Shaiya Evento
+# Sh Server 2023
 Este repositório contém os seguintes arquivos de desenvolvimento:
 - Diretório Bin: Responsável pelas mecânicas básicas e avançadas do servidor;
 - DB: Responsável pelo armazenamento da Databse do servidor;
