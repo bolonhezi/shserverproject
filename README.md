@@ -1,6 +1,6 @@
 # Sh Server 2023
 Este repositório contém os seguintes diretórios com arquivos de desenvolvimento:
-- Bin: Responsável pelas mecânicas básicas e avançadas do servidor;
+#### Bin: Responsável pelas mecânicas básicas e avançadas do servidor;
 - DB: Responsável pelo armazenamento da Database do servidor;
 - TSQL: Responsável por oferecer serviços avançados através de Quests no servidor;
 - XML: Responsável por guardar arquivos que executam pedaços de códigos em assembly junto ao PS_game.exe;
