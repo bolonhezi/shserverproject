@@ -1,6 +1,6 @@
 # Sh Server 2023
 Este repositório contém os seguintes diretórios com arquivos de desenvolvimento:
-## (Bin)[https://github.com/bolonhezi/shserverproject/tree/main/Bin]
+## [Bin](https://github.com/bolonhezi/shserverproject/tree/main/Bin)
 - Responsável pelas mecânicas básicas e avançadas do servidor;
 ## DB
 - Responsável pelo armazenamento da Database do servidor;
