@@ -8,5 +8,5 @@ Este repositório contém os seguintes diretórios com arquivos de desenvolvimen
 - Responsável por oferecer serviços avançados através de Quests no servidor;
 ## [XML](https://github.com/bolonhezi/shserverproject/tree/main/xml)
 - Responsável por guardar arquivos que executam pedaços de códigos em assembly junto ao PS_game.exe;
-## [Fix](https://github.com/bolonhezi/shserverproject/tree/main/fix)
+## [Fix](https://github.com/bolonhezi/shserverproject/tree/main/Fix)
 - Qualquer diretório com "Fix" ao fim do nome significa que contém os arquivos para correção de algum bug a nível de cliente e servidor.
