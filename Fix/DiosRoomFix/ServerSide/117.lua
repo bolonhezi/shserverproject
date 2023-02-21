@@ -25,7 +25,7 @@ function OnNormalReset(dwTime)
 end
 
 function OnDeath(dwTime, dwAttackedCount)
-    Mob:LuaDeleteMob(2473, 2, 0.0, 0.0)
+    Mob:LuaDeleteMob(2473, 0, 0.0, 0.0)
 end
 
 function OnReturnHome(dwTime, dwAttackedCount)
