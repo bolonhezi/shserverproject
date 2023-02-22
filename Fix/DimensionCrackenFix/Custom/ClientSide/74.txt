@@ -1,0 +1,15 @@
+0	Trono do Críptico Um
+1	Zona de Lava
+2	Jardim da Dimensão
+3	Zona Canibal
+4	Kanos Illium
+5	Mina de Cristal
+6	Catarata de Lava
+7	Rachadura da Dimensão
+8	Trono do Críptico Um
+9	Trono do Críptico Um
+10	Trono do Críptico Um
+11	Trono do Críptico Um
+12	Trono do Críptico Um
+13	Trono do Críptico Um
+22	Passagem da Dimensão
