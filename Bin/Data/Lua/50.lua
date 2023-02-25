@@ -1,5 +1,5 @@
 -- //////////////////////////////////////////////////////////////////////
--- AI 113.Lua
+-- AI 50.Lua
 -- //////////////////////////////////////////////////////////////////////
 Mob = LuaMob(CMob)
 
@@ -15,16 +15,15 @@ function OnAttackable(dwTime, dwCharID)
 
 end
 
-function OnNormalReset(dwTime)
-
-end
-
 function OnReturnHome(dwTime, dwAttackedCount)
 
 end
 
+function OnNormalReset(dwTime)
+end
+
 function OnDeath(dwTime, dwAttackedCount)
-    Mob:LuaUpdateInsZonePortal(1001, 0)
+    Mob:LuaCreateMob(1716, 1, 0.0, 0.0)
 end
 
 function OnMoveEnd(dwTime)
