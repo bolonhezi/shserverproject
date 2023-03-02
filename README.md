@@ -4,8 +4,6 @@ Este repositório contém os seguintes diretórios com arquivos de desenvolvimen
 - Responsável pelas mecânicas básicas e avançadas do servidor;
 ## [DB](https://github.com/bolonhezi/shserverproject/tree/main/DB)
 - Responsável pelo armazenamento da Database do servidor;
-## [TSQL](https://github.com/bolonhezi/shserverproject/tree/main/tsql)
-- Responsável por oferecer serviços avançados através de Quests no servidor;
 ## [XML](https://github.com/bolonhezi/shserverproject/tree/main/xml)
 - Responsável por guardar arquivos que executam pedaços de códigos em assembly junto ao PS_game.exe;
 ## [Fix](https://github.com/bolonhezi/shserverproject/tree/main/Fix)
